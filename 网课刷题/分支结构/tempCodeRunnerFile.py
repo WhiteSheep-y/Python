@@ -1,0 +1,1 @@
+{:.2f}".format(n,math.fabs(eval(n))))

@@ -1,0 +1,5 @@
+R=eval(input())
+r=eval(input())
+n=eval(input())
+res=n*3.14159*(R**2-r**2)
+print("{:.2f}".format(res))
