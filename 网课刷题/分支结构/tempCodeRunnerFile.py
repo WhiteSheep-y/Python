@@ -1,1 +1,1 @@
-{:.2f}".format(n,math.fabs(eval(n))))
+x**3-x*y
