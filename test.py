@@ -1,5 +1,6 @@
-sum = 0
-for i in range(64):
-    sum+=2**i
-    print(sum)
-print(sum)
+a=1
+def fun(a):
+    a=2+a
+    print(a)
+fun(a)
+print(a)
