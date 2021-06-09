@@ -1,6 +1,12 @@
-a=1
-def fun(a):
-    a=2+a
-    print(a)
-fun(a)
-print(a)
+from turtle import *
+pd()
+begin_fill()
+fillcolor(186/255,220/255,230/255)
+circle(20)
+end_fill()
+fd(10)
+begin_fill()
+fillcolor("red")
+circle(20)
+end_fill()
+done()

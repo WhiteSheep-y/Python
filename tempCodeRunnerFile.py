@@ -1,2 +1,2 @@
 
-        star = int(week[0])#初始周
+print(List[n-1])
