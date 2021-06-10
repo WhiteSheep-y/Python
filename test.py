@@ -1,12 +1,11 @@
 from turtle import *
 pd()
-begin_fill()
-fillcolor(186/255,220/255,230/255)
-circle(20)
-end_fill()
-fd(10)
-begin_fill()
-fillcolor("red")
-circle(20)
-end_fill()
+seth(90)
+for i in range(4):
+    if i%2==0:
+        fd(40)
+        left(60)
+    else:
+        fd(110)
+        left(120)
 done()
